@@ -1,0 +1,13 @@
+TC of Array and Liked list
+
+| Operation           | Array      | Linked List        |
+| ------------------- | ---------- | ------------------ |
+| Access              | O(1)       | O(n)               |
+| Search              | O(n)       | O(n)               |
+| Insert at beginning | O(n)       | O(1)               |
+| Insert at end       | O(1)       | O(1) or O(n)       |
+| Insert at middle    | O(n)       | O(n)               |
+| Delete at beginning | O(n)       | O(1)               |
+| Delete at middle    | O(n)       | O(n)               |
+| Memory              | contiguous | scattered          |
+| Extra space         | none       | extra for pointers |
