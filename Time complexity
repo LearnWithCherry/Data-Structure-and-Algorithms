@@ -1,0 +1,13 @@
+Complexity chat 
+| Pattern                      | Complexity |
+| ---------------------------- | ---------- |
+| One loop                     | O(n)       |
+| Loop inside loop             | O(n²)      |
+| Loop inside loop inside loop | O(n³)      |
+| Halfing (binary search)      | O(log n)   |
+| n × log n                    | O(n log n) |
+| Tree/heap height             | O(log n)   |
+| Recursion to depth n         | O(n)       |
+| Calls f(n/2)                 | O(log n)   |
+| Calls f(n-1)                 | O(n)       |
+| Calls f(n) twice             | O(2ⁿ)      |
